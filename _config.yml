@@ -5,16 +5,16 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ying
 middle_name:
-last_name: Meng
+last_name:
 email: ymeng@email.sc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ying Meng is a Ph.D. candidate at the University of South Carolina. She is under the supervision of Dr. Jamshidi. Her research interests includes adversarial machine learning and software testing.
+  Ying Meng is a Ph.D. candidate at the University of South Carolina. She is under the supervision of Dr. Pooyan Jamshidi. Her research interests includes adversarial machine learning and software testing.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  https://meng2010.github.com # the base hostname & protocol for your site
+url:  https://meng2010.github.io # the base hostname & protocol for your site
 #baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
@@ -61,7 +61,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: aiTesting  # your blog must have a name for it to show up in the nav bar
-blog_description: Ying's page
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -151,8 +151,8 @@ scholar:
 enable_google_analytics:  false
 enable_mansory:           true
 enable_math:              true
-enable_tooltips:          false
-enable_darkmode:          false
+enable_tooltips:          true
+enable_darkmode:          true
 show_social_icons:        false
 
 # -----------------------------------------------------------------------------

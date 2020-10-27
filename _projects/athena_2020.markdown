@@ -2,7 +2,7 @@
 layout: page
 title: ATHENA
 description: ATHENA -- a framework for building adversarial defenses.
-img: /assets/img/12.jpg
+img: /assets/img/projects/athena/trans_as_wd.png
 selected: true
 importance: 1
 ---
@@ -69,10 +69,10 @@ Here's the code for the last row of images above:
 ```html
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/examples/6.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/examples/6.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 ```

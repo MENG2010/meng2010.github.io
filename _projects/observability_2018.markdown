@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Ensuring the Observability
+description: Observability-an extension to coverage criteria based on Boolean expressions that combines the obligations of a host criterion with an additional path condition that increases the likelihood that a fault encountered will propagate to a monitored variable.
+img: /assets/img/projects/observability/performance.png
 importance: 2
+selected: true
 ---
 
 Every project has a beautiful feature showcase page.
