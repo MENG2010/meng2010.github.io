@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/alshedivat/al-folio)](https://github.com/alshedivat/al-folio)
 [![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
 
-Theme ![alfolio](https://img.shields.io/github/license/alshedivat/al-folio?color=blue) is used to built this website.
+Theme ![al-folio](https://github.com/alshedivat/al-folio) is used to built this website.
 
 ## License
 
