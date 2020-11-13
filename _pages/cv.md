@@ -2,9 +2,9 @@
 layout: page
 permalink: /cv/
 title: cv
-description: .
 nav: true
 ---
+<a href="resume_meng.pdf">Download CV</a>
 
 <object data="resume_meng.pdf" type="application/pdf" width="900px" height="1200px">
     <embed src="resume_meng.pdf">
