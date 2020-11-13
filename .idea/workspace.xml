@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c30bcb52-3d41-4211-96c5-39f9f1d42a72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_4.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1jQBcwqrju8ftDf5W3DlLECyVwg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/_news" />
+      <recent name="$PROJECT_DIR$/_bibliography" />
+      <recent name="$PROJECT_DIR$/_projects" />
+      <recent name="$PROJECT_DIR$/backup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cv" />
+      <recent name="$PROJECT_DIR$/backup" />
+      <recent name="$PROJECT_DIR$/assets/img/examples" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c30bcb52-3d41-4211-96c5-39f9f1d42a72" name="Default Changelist" comment="" />
+      <created>1603726517050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603726517050</updated>
+    </task>
+    <task id="LOCAL-00001" summary="clear">
+      <created>1603727502447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603727502447</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homepage">
+      <created>1603773535654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603773535654</updated>
+    </task>
+    <task id="LOCAL-00003" summary="profile and url">
+      <created>1603774037272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603774037272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1603778519864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603778519864</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1603780299760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603780299760</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1603780512996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603780512996</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1603807961289</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603807961289</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1603861371998</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603861371998</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1603862170656</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603862170656</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1603863109220</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603863109220</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1603863265220</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603863265220</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1605298291370</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605298291370</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1605298342117</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605298342117</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1605298462040</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605298462040</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clear" />
+    <MESSAGE value="homepage" />
+    <MESSAGE value="profile and url" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="840" y="171" width="744" height="854" key="CommitChangelistDialog2" timestamp="1605298462010">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="840" y="171" width="744" height="854" key="CommitChangelistDialog2/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1605298462010" />
+    <state x="2617" y="44" width="744" height="854" key="CommitChangelistDialog2/0.27.1920.1020/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603863265179" />
+    <state x="1000" y="356" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603756905591">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="1000" y="356" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1603756905591" />
+    <state x="973" y="305" width="478" height="587" key="RollbackChangesDialog" timestamp="1603727441101">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="973" y="305" width="478" height="587" key="RollbackChangesDialog/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1603727441101" />
+    <state x="812" y="334" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1605298463435">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="812" y="334" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1605298463435" />
+    <state x="2732" y="325" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1020/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603863266786" />
+    <state x="1072" y="419" width="368" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605297844218">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="1072" y="419" width="368" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1605297844218" />
+  </component>
+</project>
