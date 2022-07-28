@@ -13,4 +13,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ying is a Ph.D candidate at the University of South Carolina. She is under the supervision of Dr. Pooyan Jamshidi. Her research interests includes adversarial machine learning and software testings.
+Ying is a Ph.D student at George Mason University. She interests in researches on security machine learning and software security.
