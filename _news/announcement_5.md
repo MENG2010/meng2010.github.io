@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2017-12-22 07:59:00-0400
+date: 2018-01-01 07:59:00-0400
 inline: true
 ---
 
-Graduate as a master of Computer Science, advised by Dr. Gregory Gay.
+Start my Ph.D. study under the supervision of Dr. Gregory Gay.

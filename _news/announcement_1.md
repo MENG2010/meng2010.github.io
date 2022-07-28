@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-03-05 07:59:00-0400
+date: 2021-10-01 07:59:00-0400
 inline: true
 ---
 
-Offer from Google! I will work as a full-time intern at Google this summer (May 3rd - Aug 6th).
+Join Systems and Software Security Lab, working with Dr. Qiang Zeng on security machine learning related projects. The whole lab moves to George Mason University (GMU) Fall 2022.
