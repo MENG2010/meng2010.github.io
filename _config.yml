@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ying
 middle_name:
 last_name:
-email: ymeng@email.sc.edu
+email: ymeng2(at)gmu(dot)edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ying Meng is a Ph.D. candidate at the University of South Carolina. She is under the supervision of Dr. Pooyan Jamshidi. Her research interests includes adversarial machine learning and software testing.
+  Ying Meng is a Ph.D. student at George Mason University. She is under the supervision of Dr. Qiang Zeng. Her research interests includes security machine learning and security software.
 #footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
